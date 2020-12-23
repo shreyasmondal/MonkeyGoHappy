@@ -37,8 +37,6 @@ function setup() {
   bananaGroup = createGroup()
   
   stoneGroup = createGroup()
-  
-  monkey.debug = true
 }
 
 function draw() {
